@@ -1,0 +1,95 @@
+{
+    "date": "2024-03-15",
+    "type": "EQUITY",
+    "exchange": "TWSE",
+    "market": "TSE",
+    "symbol": "2330",
+    "name": "台積電",
+    "referencePrice": 784,
+    "previousClose": 784,
+    "openPrice": 771,
+    "openTime": 1710464404512551,
+    "highPrice": 777,
+    "highTime": 1710465191746559,
+    "lowPrice": 753,
+    "lowTime": 1710480600000000,
+    "closePrice": 753,
+    "closeTime": 1710480600000000,
+    "avgPrice": 762.16,
+    "change": -31,
+    "changePercent": -3.95,
+    "amplitude": 3.06,
+    "lastPrice": 753,
+    "lastSize": 31406,
+    "bids": [
+        {
+            "price": 752,
+            "size": 1452
+        },
+        {
+            "price": 751,
+            "size": 2009
+        },
+        {
+            "price": 750,
+            "size": 2295
+        },
+        {
+            "price": 749,
+            "size": 466
+        },
+        {
+            "price": 748,
+            "size": 731
+        }
+    ],
+    "asks": [
+        {
+            "price": 753,
+            "size": 8
+        },
+        {
+            "price": 754,
+            "size": 164
+        },
+        {
+            "price": 755,
+            "size": 10
+        },
+        {
+            "price": 757,
+            "size": 720
+        },
+        {
+            "price": 758,
+            "size": 1002
+        }
+    ],
+    "total": {
+        "tradeValue": 55754713000,
+        "tradeVolume": 73154,
+        "tradeVolumeAtBid": 24992,
+        "tradeVolumeAtAsk": 45252,
+        "transaction": 14623,
+        "time": 1710480600000000
+    },
+    "lastTrade": {
+        "bid": 752,
+        "ask": 753,
+        "price": 753,
+        "size": 31406,
+        "time": 1710480600000000,
+        "serial": 8977016
+    },
+    "lastTrial": {
+        "bid": 752,
+        "ask": 753,
+        "price": 752,
+        "size": 30249,
+        "time": 1710480595598218,
+        "serial": 8976176
+    },
+    "isClose": true,
+    "serial": 8977016,
+    "lastUpdated": 1710480600000000
+}

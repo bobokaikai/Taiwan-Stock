@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 1274,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hubspot.com"
+            },
+            "author": "Sam Lauron",
+            "title": "Diving Deep Into Technical SEO for Ecommerce (My Takeaways)",
+            "description": "Explore the essential technical SEO strategies for ecommerce success, including site architecture, structured data, and keyword research. Learn from expert insights and examples to optimize your online store.",
+            "url": "https://blog.hubspot.com/marketing/technical-seo-ecommerce#article",
+            "urlToImage": "https://lh7-us.googleusercontent.com/hGDPe58kmKwnFahFudk_h7Q5kWsGsD27yNcQ4_74gM8yTOajjyu3a6ZK32xpfh29ajDSIJtWObuiZi5_IABtpDImTRKf3dfjFpUSJfkBDu9stb3oiO8QW8rmHnUKnHhoemf-YSyu0dx5lqgkasIeuZ0#keepProtocol",
+            "publishedAt": "2024-02-29T12:00:00Z",
+            "content": "As of 2023, there are over 26.5 million ecommerce websites around the world. Talk about a competitive industry. Its hard not to be intimidated by the sheer number of ecommerce sites shoppers have to… [+11027 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hubspot.com"
+            },
+            "author": "mvolpe.hubspot@gmail.com (Mike Volpe)",
+            "title": "SEO Step-by-Step Tutorial: 8 Easy Basics for Beginners to Master",
+            "description": "You want to learn about search engine optimization (SEO), but where do you start? You’ve probably heard of a few basic terms, like keyword research, but what else do you need to know?",
+            "url": "https://blog.hubspot.com/marketing/tabid/6307/bid/1436/shortest-tutorial-ever-on-seo-search-engine-optimization.aspx#article",
+            "urlToImage": "https://blog.hubspot.com/hubfs/learn%20SEO.png#keepProtocol",
+            "publishedAt": "2024-02-07T12:00:00Z",
+            "content": "You want to learn about search engine optimization (SEO), but where do you start? Youve probably heard of a few basic terms, like keyword research, but what else do you need to know? I this post, I'… [+14858 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Search Engine Journal"
+            },
+            "author": "Kevin Indig",
+            "title": "Universe: A Better Alternative To Keyword Research via @sejournal, @Kevin_Indig",
+            "description": "Upgrade your keyword research strategy with a Keyword Universe. Build a pool of impactful keywords to prioritize content creation and optimize your SEO strategy. The post Universe: A Better Alternative To Keyword Research appeared first on Search Engine Journ…",
+            "url": "https://www.searchenginejournal.com/universe-a-better-alternative-to-keyword-research/509466/",
+            "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/Kevin_Indig_week1_FI.jpg",
+            "publishedAt": "2024-02-28T11:00:58Z",
+            "content": "Boost your skills with Growth Memo’s weekly expert insights. Subscribe for free! The classic approach to keyword research is outdated. Instead of doing a sprint every so often, build a keyword unive… [+7415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Nickolas Diaz)",
+            "title": "The Google Pay app is shutting down later this year",
+            "description": "Google announced it will shut down 'Google Pay' in the U.S. as it urges users to utilize Wallet.",
+            "url": "https://www.androidcentral.com/apps-software/google-pay-changes-june-shutdown-announced",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/z6tvCEtF9C5BiHta3vMEoh-1200-80.jpeg",
+            "publishedAt": "2024-02-22T20:34:46Z",
+            "content": "<ul><li>Google announces that it will shutdown its U.S.-based 'Google Pay' app on June 4, 2024.</li><li>Users will lose the ability to view shopping deals in the app while also being unable to send, … [+2131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "techkritiko@gmail.com (Jay Bonggolto)",
+            "title": "Finding old messages on WhatsApp just got easier on Android",
+            "description": "You can now search chats in WhatsApp based on the date they happened.",
+            "url": "https://www.androidcentral.com/apps-software/whatsapp-adds-search-by-date-feature-for-android",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/B5qXL9tndgCYA7gcAE2QhG-1200-80.jpg",
+            "publishedAt": "2024-03-03T09:23:58Z",
+            "content": "<ul><li>WhatsApp has introduced a feature making it a breeze to search for messages, allowing users to effortlessly find messages by date.</li><li>This search-by-date feature is already up and runnin… [+2110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Alexmolas.com"
+            },
+            "author": null,
+            "title": "A search engine in 80 lines of Python",
+            "description": "In this post I explain how I built a search engine from scratch using python. The resulting search engine is used to search in the posts of the blogs I follow.",
+            "url": "https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html",
+            "urlToImage": null,
+            "publishedAt": "2024-02-07T19:28:05Z",
+            "content": "A search engine in 80 lines of Python A search engine in 80 lines of Python February 05, 2024 · 26 mins · 4718 words Last September I hopped on board with Wallapop as a Search Data Scientist and… [+17074 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Nickolas Diaz)",
+            "title": "Google announces Gemini 1.5 as it seeks the 'next generation' of AI",
+            "description": "More 'tokens' means Gemini 1.5 Pro can handle much more data, outputting greater relevancy and more.",
+            "url": "https://www.androidcentral.com/apps-software/google-gemini-1-5-next-gen-ai-model",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/CWkqBjQwgmSW9hT6fCrVL-1200-80.jpg",
+            "publishedAt": "2024-02-15T18:36:52Z",
+            "content": "<ul><li>Google announces the arrival of its 'next generation' AI model, Gemini 1.5, which will arrive in 'early testing' fashion.</li><li>To begin testing, Gemini 1.5 Pro will be made available to de… [+2674 chars]"
+        }
+    ]
+}

@@ -1,0 +1,5 @@
+export {default as Navbar} from "./NavBar/NavBar"
+export {default as Footer} from "./Footer/Footer"
+export {default as SideBar} from "./SideBar/SideBar"
+export {default as WidgetData} from "./WidgetData/WidgetData"
+export {default as News} from "./News/News"
